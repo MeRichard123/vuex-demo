@@ -1,4 +1,4 @@
-# trying-vuex
+# VueX Todo App
 
 ## Project setup
 ```
